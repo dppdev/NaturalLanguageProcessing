@@ -1,0 +1,1 @@
+This project gets spanish words and translate to english using transformers, pytorch, cuda and gradio for the interface
